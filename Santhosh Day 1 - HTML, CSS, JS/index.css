@@ -1,0 +1,26 @@
+body{
+    position: absolute;
+    top: 50%;
+    margin-left: 40%;
+}
+#dislikeBtn {
+    background-color: blue;
+    border: 0;
+    color: white;
+    padding: 12px 10px;
+    display: inline;
+    margin-right: 30px;
+}
+
+#likeBtn {
+    background-color: blue;
+    border: 0;
+    color: white;
+    padding: 12px 10px;
+    display: inline;
+    margin-left: 30px;
+}
+
+#viewLikes {
+    display: inline;
+}
